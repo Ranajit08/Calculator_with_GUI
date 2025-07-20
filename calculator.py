@@ -1,5 +1,6 @@
 import re
 
+
 class Calc:
     def __init__(self, string):
         self.string = string
@@ -20,5 +21,6 @@ class Calc:
         else:
             return "Error"
 
-if __name__=="__main__":
+
+if __name__ == "__main__":
     Calc()
