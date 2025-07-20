@@ -43,19 +43,19 @@ def gui():
         entry.insert("end", "00")
 
     def click_plus():
-        entry.insert("end", " + ")
+        entry.insert("end", "+")
 
     def click_minus():
-        entry.insert("end", " - ")
+        entry.insert("end", "-")
 
     def click_multiplication():
-        entry.insert("end", " * ")
+        entry.insert("end", "*")
 
     def click_division():
-        entry.insert("end", " / ")
+        entry.insert("end", "/")
 
     def click_percentage():
-        entry.insert("end", " % ")
+        entry.insert("end", "%")
 
     def click_backspace():
         current = entry.get()
