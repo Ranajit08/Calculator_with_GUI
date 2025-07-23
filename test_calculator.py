@@ -23,3 +23,9 @@ def test_calc_div():
     c = Calc("12/2")
     result = c.result()
     assert result == 6
+
+def test_percent():
+    c = Calc("4%")
+    result = c.result()
+    assert result == 0.04
+    

@@ -23,18 +23,19 @@ python main.py
 ```
 
 ### Testing:
-To test codes, open terminal and run -
-for testing `main.py`
+To test codes, install pytest module to test, if you already installed this test module in you desktop or laptop, skip this part - 
+open terminal and run -
+```bash
+pip install pytest
+```
+
+for testing `main.py`, run -
 ```bash
 python test_main.py
 ```
-for testing `calculator.py`
+for testing `calculator.py`, run -
 ```bash
 python test_calculator.py`
-```
-for testing `gui.py`
-```bash
-python test_gui.py
 ```
 
 ### Author:
