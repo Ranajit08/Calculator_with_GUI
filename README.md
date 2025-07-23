@@ -42,5 +42,8 @@ python test_calculator.py`
 - Ranajit Mitra
 - GitHub: @Ranajit08
 
+### LICENSE:
+This project is licensed under the [MIT License](LICENSE).
+
 
 
