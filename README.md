@@ -31,11 +31,11 @@ pip install pytest
 
 for testing `main.py`, run -
 ```bash
-python test_main.py
+pytest test_main.py
 ```
 for testing `calculator.py`, run -
 ```bash
-python test_calculator.py`
+pytest test_calculator.py`
 ```
 
 ### Author:
